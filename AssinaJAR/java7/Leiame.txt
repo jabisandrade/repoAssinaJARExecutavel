@@ -1,0 +1,2 @@
+Essa pasta devera ser a pasta do JDK com o nome java7.
+A pasta esta vazia por conta do tamanho do jdk que pode ser baixado no site da SUN.
